@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
-'''Task 1's module.
-'''
+"""
+A coroutine called async_comprehension that takes no arguments.
+"""
+
 from typing import List
 from importlib import import_module as using
 
