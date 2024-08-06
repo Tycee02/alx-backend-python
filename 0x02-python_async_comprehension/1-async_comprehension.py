@@ -3,6 +3,7 @@
 A coroutine called async_comprehension that takes no arguments.
 """
 
+import asyncio
 from typing import List
 
 
